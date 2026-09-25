@@ -1,0 +1,13 @@
+{
+  "include_stores": ["Supermarket", "Discounter", "Drugstore"],
+  "stores": {
+    "Discounter": ["Milch", "Butter", "Eier", "Mehl"],
+    "Supermarket": ["Avocado", "Mozzarella", "Pesto"],
+    "Drugstore": ["Zahnpasta", "Shampoo"]
+  },
+  "default_store": "Supermarket",
+  "_learned": {
+    "last_run": null,
+    "items": []
+  }
+}

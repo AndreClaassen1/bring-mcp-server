@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "bring": {
+      "command": "/path/to/bring-mcp-server/.venv/bin/python",
+      "args": ["-m", "bring_mcp.server"],
+      "env": {
+        "BRING_EMAIL": "your.email@example.com",
+        "BRING_PASSWORD": "your_password_here"
+      }
+    }
+  }
+}

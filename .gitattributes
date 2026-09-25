@@ -1,0 +1,3 @@
+# Dateien mit export-ignore gehen nicht in den GitHub-Spiegel (github-sync)
+CLAUDE.md export-ignore
+.claude/ export-ignore
